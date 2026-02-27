@@ -1,95 +1,68 @@
-# CodeHub: Combined Programming Language Folder
+# 🐍 PYTHON
 
+## 📌 About
 
-## Overview
+**PYTHON** is a dedicated repository for learning, practicing, and implementing Python programming concepts.
 
-Welcome to **CodeHub**, a centralized folder designed for organizing source codes and learning resources across multiple programming languages and paradigms. This repository serves as a personal and educational collection for solving problems, practicing competitive programming, and managing code snippets in languages like C, C++, Java, and Python.
-
----
-
-## Folder Structure
-
-The directory is structured for easy access and discoverability. Here’s what each subfolder contains:
-
-- **ALGORITHM-BY-C.P.P**:  
-  Algorithm implementations and problem-solutions using C and C++.
-
-- **BEECROWD**:  
-  Solutions and code for Beecrowd (formerly URI Online Judge) problem sets.
-
-- **CGPA-COUNTER**:  
-  CGPA (Cumulative Grade Point Average) calculation tools and scripts.
-
-- **COMPITIVE-PROGRAMMING**:  
-  Templates, solutions, and resources for competitive programming platforms and online contests.
-
-- **DATA-STRUCTURE**:  
-  Implementations of common data structures (arrays, linked lists, trees, etc.) in various programming languages.
-
-- **JAVA**:  
-  Java-based codes and projects, including object-oriented programming exercises.
-
-- **LEARNING-CODE**:  
-  Miscellaneous learning resources and sample codes from tutorials, books, or personal exploration.
-
-- **PYTHON**:  
-  Python projects, scripts, exercises, and programming solutions.
+This repository contains structured examples, problem-solving scripts, small projects, and practice exercises written in **Python 3**. It serves as both a learning archive and a growing collection of reusable Python code.
 
 ---
 
-## Usage
+## 🚀 Objectives
 
-- **Browsing**:  
-  Navigate through each folder based on your area of interest or the programming language you wish to explore.
-
-- **Learning & Practice**:  
-  Use the example codes to learn concepts, solve problems, or prepare for coding interviews and contests.
-
-- **Contribution**:  
-  You are welcome to suggest improvements or contribute new solutions and learning materials! Fork this repository and submit a pull request with your additions.
+* 📘 Learn Python fundamentals and advanced concepts
+* 🧠 Improve problem-solving skills using Python
+* 🛠 Build small projects and utility scripts
+* 🏆 Prepare for coding interviews and competitive programming
+* 📂 Maintain a clean and organized Python codebase
 
 ---
 
-## Getting Started
+## 📂 Topics Covered
 
-1. **Clone this repository**
+This repository may include:
 
-    ```sh
-    git clone <your-repo-url>
-    ```
+### 🔹 Python Basics
+* Variables and Data Types
+* Conditional Statements
+* Loops
+* Functions
+* Input / Output Handling
 
-2. **Explore by Language or Topic**
+### 🔹 Data Structures in Python
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+* Strings
 
-    - Select the relevant subfolder (e.g., `ALGORITHM-BY-C.P.P` for C/C++ algorithms, `JAVA` for Java exercises).
+### 🔹 Object-Oriented Programming (OOP)
 
-3. **Run Code Examples**
+### 🔹 File Handling
 
-    - Make sure you have the necessary compiler/interpreter for the selected language:
-        - C/C++: GCC or MSVC
-        - Java: JDK installed
-        - Python: Python 3.x
+### 🔹 Exception Handling
 
----
+### 🔹 Modules and Libraries
 
-## Why This Project Exists
+### 🔹 Problem Solving & Practice Programs
 
-- To keep all personal and academic programming material organized in one place.
-- To facilitate quick reference and review during study sessions or interviews.
-- To encourage cross-language learning and problem solving.
-
----
-
-## License
-
-This repository is open-source and available under the MIT License.
+### 🔹 Mini Projects & Utility Scripts
 
 ---
 
-## Author & Acknowledgment
+## 🛠 Technologies Used
 
-Created and maintained by [Your Name].  
-Resources and solutions collected from personal study, open platforms, and contributions by fellow programmers.
+* **Python 3.x**
+* Standard Python Libraries
+* IDE / Code Editor (VS Code, PyCharm, etc.)
 
 ---
 
-*Last updated: January 2026*
+## ▶️ How to Run
+
+Make sure Python 3 is installed on your system.
+
+### Check Python Version
+
+```bash
+python --version
